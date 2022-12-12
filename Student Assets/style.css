@@ -1,0 +1,22 @@
+body{
+    background-size: cover;
+    position: center;
+}
+
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin-top: 0px;
+}
+
+#status{
+    font-size: 20px;
+}
+
+a{
+    font-size: 20px !important;
+    width: 400px;
+    border-radius: 30px !important;
+    background-color: cornsilk !important;
+    color: navy;
+}
